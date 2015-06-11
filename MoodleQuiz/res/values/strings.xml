@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QuizDown</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="action_settings">Settings</string>
+    <string name="login_button">Login</string>
+    <string name="moodle_url">http://10.0.2.2/moodle/test.php</string>
+    <string name="course_url">http://10.0.2.2/moodle/course_list.php</string>
+    <string name="questiontype_url">http://10.0.2.2/moodle/questiontype2.php</string>
+    <string name="quiz_url">http://10.0.2.2/moodle/show_quiz.php</string>
+    <string name="posttest_url">http://10.0.2.2/moodle/post_test.php</string>
+    <string name="title_activity_select_course">SelectCourse</string>
+    <string name="title_activity_show_quiz">ShowQuiz</string>
+    <string name="title_activity_show_questions">ShowQuestions</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_test">Test</string>
+
+</resources>
